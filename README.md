@@ -16,7 +16,7 @@
 
 ## Task
 
-See **[TASK.md](TASK.md)** for the interview task instructions.
+The interview task will be shared with you at the start of the session.
 
 ## Project Structure
 
