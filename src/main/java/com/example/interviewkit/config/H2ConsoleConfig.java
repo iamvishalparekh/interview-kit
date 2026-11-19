@@ -1,4 +1,4 @@
-package uk.co.sainsburys.op.config;
+package com.example.interviewkit.config;
 
 import org.h2.server.web.JakartaWebServlet;
 import org.springframework.boot.web.servlet.ServletRegistrationBean;

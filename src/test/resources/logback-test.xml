@@ -7,6 +7,6 @@
 
     <root level="INFO"/>
 
-    <logger name="uk.co.sainsburys" level="debug"/>
+    <logger name="com.example" level="debug"/>
 
 </configuration>
