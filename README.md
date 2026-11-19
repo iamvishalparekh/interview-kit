@@ -21,7 +21,7 @@ The interview task will be shared with you at the start of the session.
 ## Project Structure
 
 ```
-src/main/java/uk/co/sainsburys/op/
+src/main/java/com/example/interviewkit/
 ├── InterviewKit.java          ← Spring Boot entry point
 └── HelloController.java       ← Health check endpoint
 

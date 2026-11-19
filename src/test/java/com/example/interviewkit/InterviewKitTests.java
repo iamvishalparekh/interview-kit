@@ -1,4 +1,4 @@
-package uk.co.sainsburys.op;
+package com.example.interviewkit;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
