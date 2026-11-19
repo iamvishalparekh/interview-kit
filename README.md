@@ -1,4 +1,4 @@
-# Food Order Promise — Interview Kit
+# Interview Kit
 
 ## Quick Start
 
